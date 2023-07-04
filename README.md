@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Javascript Project</b>
   - [Slot Machine](https://github.com/Mlindos11/Slot-Machine/tree/main)
  
 <h2> Certification</h2>
