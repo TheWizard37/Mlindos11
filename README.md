@@ -4,6 +4,7 @@
 
 - <b>Javascript Project</b>
   - [Slot Machine](https://github.com/Mlindos11/Slot-Machine/tree/main)
+  - [E-com](https://github.com/TheWizard37/E-com)
  
 <h2> Certification</h2>
 
